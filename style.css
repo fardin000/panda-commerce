@@ -1,5 +1,19 @@
-section .banner{
+.banner{
     border-radius: 20px;
-    background-color: #FEEAE9;
-    
+    background-color: #FEEAE9;  
 }
+a{
+    font-size: 14px;
+    font-weight: bold;
+}
+.price-text-weight{
+    font-size: 2.5em;  
+}
+.price-text-weight{
+    color: #FF136F;  
+}
+.btn-color{
+    background-color: #FF136F !important;
+    color: white !important;
+    border-radius: 10px !important;
+} 
