@@ -17,3 +17,11 @@ a{
     color: white !important;
     border-radius: 10px !important;
 } 
+.card-style{
+    border-style: none !important;
+    border-radius: 10px !important;
+
+}
+.footer-text{
+    margin-left: 1em;
+}
